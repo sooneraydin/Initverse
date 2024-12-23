@@ -44,13 +44,13 @@ screen -S init
 ```
 ![image](https://github.com/user-attachments/assets/c1dd2098-a6a5-49a7-90cb-9ce42b7b8307)
 
-##### Dilerseniz Çekirdeklere Yüklenmesini Ayarlayabilirsiniz Misal Alttaki komut 1 Thread Kullanmak için :
+##### Dilerseniz Çekirdeklere Yüklenmesini Ayarlayabilirsiniz Misal Alttaki komut 1 Thread Kullanmak için  --cpu-devices :
 
 ```bash
 ./iniminer-linux-x64 --./iniminer-linux-x64 --pool stratum+tcp://0x0304f5193FCe6A27e3789c27EE2B9D95177e21A5.Worker001@pool-core-testnet.inichain.com:32672 --cpu-devices 1
 ```
 
-## Multi CPU Ayarlamak İçin 13 Thread için : 
+#### Multi CPU Ayarlamak İçin --cpu-devices ekleyebilirsiniz misal  13 Thread için : 
 
 ```bash
 ./iniminer-linux-x64 --./iniminer-linux-x64 --pool stratum+tcp://0x0304f5193FCe6A27e3789c27EE2B9D95177e21A5.Worker001@pool-core-testnet.inichain.com:32672 --cpu-devices 12 --cpu-devices 1
