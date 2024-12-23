@@ -12,6 +12,8 @@ Tavsiye Edilen :
 
 - ∞+ CPU ( Hızlı ) / ∞+ GB RAM / ∞+ MBit/sec İndirme Hızı 
 
+### Sonsuz yazmamızın sebebi sunucunuz / bilgisayarınız ile alakalı - Liste : https://github.com/RPCdotcom/Initverse/blob/main/Threadlistesi.md
+
 Sistem paketlerini güncellemek ve yükseltmek için aşağıdaki komutu çalıştırın:
 
 ```bash
