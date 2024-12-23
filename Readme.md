@@ -36,7 +36,7 @@ curl -L -O https://github.com/Project-InitVerse/miner/releases/download/v1.0.0/i
 screen -S init
 ```
 
-## 5. Ayarlama Yapalım  : 
+## 5. Ayarlama Yapalım - UYARI Çekirdekleri ayarlananı yapmanızı tavsiye ederiz. Durdurmak istediğinizde CTRL C yapmanız yeterli durdurur. : 
 
 - 0x0304f5193FCe6A27e3789c27EE2B9D95177e21A5 bu random cüzdan bunun yerine siz kendi cüzdan adresinizi yazın
 - Worker001 sunucuya verdiğiniz isim isterseniz farklı yapabilirsiniz Sunucum1 misal olarak.
@@ -45,6 +45,7 @@ screen -S init
 ./iniminer-linux-x64 --./iniminer-linux-x64 --pool stratum+tcp://0x0304f5193FCe6A27e3789c27EE2B9D95177e21A5.Worker001@pool-core-testnet.inichain.com:32672 
 ```
 ![image](https://github.com/user-attachments/assets/c1dd2098-a6a5-49a7-90cb-9ce42b7b8307)
+
 
 ##### Dilerseniz Çekirdeklere Yüklenmesini Ayarlayabilirsiniz Misal Alttaki komut 1 Thread Kullanmak için  --cpu-devices :
 
