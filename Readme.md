@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/35e841fa-a227-432a-bb05-0005e63d796a)
 
-# Initchain Validator Node Kurulum : 
+# Initchain Node Kurulum : 
 
 ## Gereksinimler : 
 
