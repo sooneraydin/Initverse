@@ -58,6 +58,11 @@ screen -S init
 
 ![image](https://github.com/user-attachments/assets/c5b535eb-47c8-4cc7-9167-9851438b18f4)
 
+Misal 9'luda Böyle Kullanıyor : 
+
+![image](https://github.com/user-attachments/assets/6ace2e49-9970-4f5d-b620-8d610ac13637)
+
+
 #### Çalıştığında misal böyle gözükecek: 
 
 ![image](https://github.com/user-attachments/assets/bbbcd5ca-7660-4704-92e1-633d2c90b65f)
