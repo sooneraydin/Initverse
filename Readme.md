@@ -31,7 +31,7 @@ curl -L -O https://github.com/Project-InitVerse/miner/releases/download/v1.0.0/i
 ## 4. Screen Açalım : 
 
 ```bash
-screen -r init
+screen -S init
 ```
 
 ## 5. Ayarlama Yapalım  : 
