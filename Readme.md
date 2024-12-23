@@ -30,6 +30,12 @@ sudo apt install htop ca-certificates zlib1g-dev libncurses5-dev libgdbm-dev lib
 curl -L -O https://github.com/Project-InitVerse/miner/releases/download/v1.0.0/iniminer-linux-x64
 ```
 
+#### Yetki Verelim : 
+
+```bash
+chmod +x iniminer-linux-x64
+```
+
 ## 4. Screen Açalım : 
 
 ```bash
