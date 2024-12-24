@@ -81,6 +81,8 @@ Misal 9'luda Böyle Kullanıyor :
 
 ![image](https://github.com/user-attachments/assets/bbbcd5ca-7660-4704-92e1-633d2c90b65f)
 
+#### CTRL A + D ile screenden çalışmayı durdurmadna rahatlıkla çıkabilirsiniz.
+
 ## Ne Kadar Kastık Durumlar Ne Dasboard'ı : 
 
 - Link : https://genesis-testnet.yatespool.com/ 
