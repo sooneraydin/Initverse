@@ -14,6 +14,8 @@ Tavsiye Edilen :
 
 ### Sonsuz yazmamızın sebebi sunucunuz / bilgisayarınız ile alakalı - Liste : https://github.com/RPCdotcom/Initverse/blob/main/Threadlistesi.md
 
+## Kuruluma Başlayalım ; 
+
 Sistem paketlerini güncellemek ve yükseltmek için aşağıdaki komutu çalıştırın:
 
 ```bash
