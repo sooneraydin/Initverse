@@ -43,7 +43,7 @@ screen -S init
 ```
 
 ## 5. Ayarlama Yapalım - UYARI Çekirdekleri ayarlananı yapmanızı tavsiye ederiz. 
-## Durdurmak istediğinizde CTRL C yapmanız yeterli durdurur. : 
+#### Durdurmak istediğinizde CTRL C yapmanız yeterli durdurur. 
 
 - 0x0304f5193FCe6A27e3789c27EE2B9D95177e21A5 bu random cüzdan bunun yerine siz kendi cüzdan adresinizi yazın
 - Worker001 sunucuya verdiğiniz isim isterseniz farklı yapabilirsiniz Sunucum1 misal olarak.
