@@ -33,8 +33,7 @@
 
 #### Sonrasında yineden Start dosyasına 2 kere tıklayıp çalıştırın. 
 
-![image](https://github.com/user-attachments/assets/445e2584-f415-4b80-b18f-c363a7eeda96)
-
+![image](https://github.com/user-attachments/assets/353b7eb8-1fe7-4de2-8bdd-929155ba67a6)
 
 ##### Artık çalışacak ve mining'e başlayacaktır. Kapatmak istediğinizde açıklan uygulamanın üstündeki Çarpıya basmanız yeterli direkt kapatır.
 
