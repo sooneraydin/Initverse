@@ -48,6 +48,8 @@ screen -S init
 - 0x0304f5193FCe6A27e3789c27EE2B9D95177e21A5 bu random cüzdan bunun yerine siz kendi cüzdan adresinizi yazın
 - Worker001 sunucuya verdiğiniz isim isterseniz farklı yapabilirsiniz Sunucum1 misal olarak.
 
+##### Tüm Çekirdeklere Yüklenen Model : 
+
 ```bash
 ./iniminer-linux-x64 --pool stratum+tcp://0x0304f5193FCe6A27e3789c27EE2B9D95177e21A5.Worker001@pool-core-testnet.inichain.com:32672 
 ```
