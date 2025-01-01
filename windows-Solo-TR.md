@@ -40,5 +40,7 @@ miner.setEtherbase("0x0304f5193FCe6A27e3789c27EE2B9D95177e21A5")
 
 #### Örnek ; 
 
+- Siz sağ tık yapınca sanki yazmamış gibi gözüküyor lakin enter'e bastığınızda true yazısını göreceksiniz.
+
 ![image](https://github.com/user-attachments/assets/6a399710-e2fa-4304-9509-7a8f6e2bdc67)
 
