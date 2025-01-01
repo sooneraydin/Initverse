@@ -13,4 +13,8 @@
 
 ![image](https://github.com/user-attachments/assets/1fdb3bf2-e34f-4324-9a6b-0a29dab368cb)
 
+#### Bu Komutu Yapıştırın Başlayacaktır ;
 
+```bash
+geth-windows-x64.exe --datadir data --http.api="eth,admin,miner,net,web3,personal" --allow-insecure-unlock --testnet console
+```
