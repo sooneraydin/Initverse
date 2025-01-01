@@ -44,3 +44,10 @@ miner.setEtherbase("0x0304f5193FCe6A27e3789c27EE2B9D95177e21A5")
 
 ![image](https://github.com/user-attachments/assets/6a399710-e2fa-4304-9509-7a8f6e2bdc67)
 
+#### Başlatalım / Çekirdek ayarlayalım ; 
+
+```bash
+miner.start()
+```
+
+- Kaç çekirdek vermek istiyorsak () arasına yazmanız gerekiyor misal 3 çekirdek ; miner.start(3)
