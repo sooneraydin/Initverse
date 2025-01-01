@@ -53,3 +53,5 @@ miner.start()
 - Kaç çekirdek vermek istiyorsak () arasına yazmanız gerekiyor misal 3 çekirdek ; miner.start(3)
 
 ![image](https://github.com/user-attachments/assets/df8aaaff-e2ec-45d4-a0ef-29644c3e9695)
+
+#### Artık çalışıyor - tüm çekirdekleri verince bilgisayarınız fırına döner dikkatli olunuz. Ben 3 verdim şimdilik. Sıvı soğutma ile 74 Derece.
