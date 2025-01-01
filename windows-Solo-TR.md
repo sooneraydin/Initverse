@@ -18,3 +18,27 @@
 ```bash
 geth-windows-x64.exe --datadir data --http.api="eth,admin,miner,net,web3,personal" --allow-insecure-unlock --testnet console
 ```
+
+![image](https://github.com/user-attachments/assets/0a2fc8fe-4f64-4071-a177-0c5ec4bb5991)
+
+
+#### Başlangıç ; 
+
+![image](https://github.com/user-attachments/assets/f4c29dc4-2c07-4e54-9d74-17fb52ead0dd)
+
+#### Sonra attığınız dosyada "data" adlı bir dosya oluşturacak ve sync olmaya başlayacak. En başlarda ortalama 1 GB alan kaplıyor.
+
+![image](https://github.com/user-attachments/assets/7790bc59-9803-471b-a276-10575472db50)
+
+![image](https://github.com/user-attachments/assets/62ea8b5d-cc81-4be8-b34a-72d2e94c5258)
+
+#### Buradaki Adresi kendi adresiniz ile değiştirin. Sonra Sağ tık ile yapıştırıp enterleyin.
+
+```bash
+miner.setEtherbase("0x0304f5193FCe6A27e3789c27EE2B9D95177e21A5")
+```
+
+#### Örnek ; 
+
+![image](https://github.com/user-attachments/assets/6a399710-e2fa-4304-9509-7a8f6e2bdc67)
+
